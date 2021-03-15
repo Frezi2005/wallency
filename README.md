@@ -5,7 +5,7 @@ Wallency is currency wallet with many features.
 ```sh
 git clone https://github.com/Frezi2005/wallency.git
 ```
-After cloning the repository you need to go to wallency-master/Vendor/cakephp/cakephp/app/config/database.php and fill in your databse credentials.
+After cloning the repository you need to go to wallency-master/Vendor/cakephp/cakephp/app/config/database.php and fill in your databse credentials. Then go to wallency-master/Vendor/cakephp/cakephp/app/config/email.php and fill in your email and password for your email server.
 
 If you see a blank page after clicking one of these links below, see if one of these methods will help you out.
 - If you have Ubuntu and LAMP installed: 
